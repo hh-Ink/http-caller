@@ -1,4 +1,4 @@
-# hyperf http base
+# http caller
 
 ## 介绍
 
@@ -6,5 +6,5 @@
 
 ## 安装
 ```
-composer require msmm/hyperf-http-base
+composer require hhink/http-caller
 ```
